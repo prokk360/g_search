@@ -3,23 +3,24 @@ b1.addEventListener("click", function (event) {
   window.open("https://www.google.com"); //  it opens in the new window
   win.focus();
 });
+//gmail
 b2.addEventListener("click", function (event) {
-  window.open("https://www.facebook.com"); //  it opens in the new window
+  window.open("https://www.gmail.com"); //  it opens in the new window
   win.focus();
 });
-//instagram
+//maps
 b3.addEventListener("click", function (event) {
-  window.open("https://www.instagram.com"); //  it opens in the new window
+  window.open("https://www.google.co.in/maps/@23.5322934,84.9940312,11.04z?hl=en&entry=ttu&g_ep=EgoyMDI1MDIyNi4xIKXMDSoASAFQAw%3D%3D"); //  it opens in the new window
   win.focus();
 });
-//snapchat
+//telegram
 b4.addEventListener("click", function (event) {
-  window.open("https://www.snapchat.com"); //  it opens in the new window
+  window.open("https://web.telegram.org/a/"); //  it opens in the new window
   win.focus();
 });
-//chatgpt
+//translate
 b5.addEventListener("click", function (event) {
-  window.open("https://www.chatgpt.com"); //  it opens in the new window
+  window.open("https://translate.google.co.in/?sl=auto&tl=en&op=translate"); //  it opens in the new window
   win.focus();
 });
 //youtube
