@@ -3,11 +3,13 @@
   padding: 0;
 }
 body {
-  background-color: #151515;
+  background: #000;
+  /* background-color: #151515; */
 }
 
 .navbar{
-  background-color: #212529;
+  background-color:#151515;
+  /* background-color: #212529; */
 }
 .container {
   width: 50vw;
@@ -39,7 +41,7 @@ body {
     cursor: pointer;
   box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
   padding: 1vh 1vw;
-  background-color: #6c757d;
+  background-color: #adb5bd;
   margin-right: 25px;
   border: none;
   border-radius: 25px;
@@ -49,7 +51,7 @@ body {
     width: fit-content;
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
   padding: 1vh 1vw;
-  background-color: #6c757d;
+  background-color: #adb5bd;
   margin-right: 2px;
   border: none;
   border-radius: 25px;
